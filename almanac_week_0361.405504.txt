@@ -1,0 +1,480 @@
+******** Week 361 almanac for PRN-01 ********
+ID:                         01
+Health:                     000
+Eccentricity:               0.1612663269E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9581891149
+Rate of Right Ascen(r/s):  -0.7966046104E-008
+SQRT(A)  (m 1/2):           5153.575195
+Right Ascen at Week(rad):   0.3010056423E+001
+Argument of Perigee(rad):   0.104538768
+Mean Anom(rad):             0.8216987551E+000
+Af0(s):                     0.3185272217E-003
+Af1(s/s):                  -0.7275957614E-011
+week:                        361
+
+******** Week 361 almanac for PRN-02 ********
+ID:                         02
+Health:                     000
+Eccentricity:               0.1688766479E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9633962606
+Rate of Right Ascen(r/s):  -0.7817468486E-008
+SQRT(A)  (m 1/2):           5153.543457
+Right Ascen at Week(rad):   0.2847631226E+001
+Argument of Perigee(rad):  -0.806023389
+Mean Anom(rad):             0.2299757405E+001
+Af0(s):                     0.5626678467E-004
+Af1(s/s):                   0.7275957614E-011
+week:                        361
+
+******** Week 361 almanac for PRN-03 ********
+ID:                         03
+Health:                     000
+Eccentricity:               0.6528377533E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9934407125
+Rate of Right Ascen(r/s):  -0.7748894201E-008
+SQRT(A)  (m 1/2):           5153.578613
+Right Ascen at Week(rad):  -0.2286068798E+001
+Argument of Perigee(rad):   1.203533762
+Mean Anom(rad):            -0.1292473190E+001
+Af0(s):                     0.5426406860E-003
+Af1(s/s):                  -0.1091393642E-010
+week:                        361
+
+******** Week 361 almanac for PRN-04 ********
+ID:                         04
+Health:                     000
+Eccentricity:               0.3735542297E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9704969139
+Rate of Right Ascen(r/s):  -0.7737465154E-008
+SQRT(A)  (m 1/2):           5153.683594
+Right Ascen at Week(rad):  -0.1215462935E+001
+Argument of Perigee(rad):  -2.874578880
+Mean Anom(rad):             0.1680359481E+001
+Af0(s):                     0.4863739014E-004
+Af1(s/s):                   0.0000000000E+000
+week:                        361
+
+******** Week 361 almanac for PRN-05 ********
+ID:                         05
+Health:                     000
+Eccentricity:               0.5417346954E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9800063964
+Rate of Right Ascen(r/s):  -0.7886042771E-008
+SQRT(A)  (m 1/2):           5153.664062
+Right Ascen at Week(rad):  -0.2345937492E+001
+Argument of Perigee(rad):   1.417916566
+Mean Anom(rad):             0.2348546308E+001
+Af0(s):                    -0.2298355103E-003
+Af1(s/s):                   0.0000000000E+000
+week:                        361
+
+******** Week 361 almanac for PRN-06 ********
+ID:                         06
+Health:                     000
+Eccentricity:               0.3848075867E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9870531206
+Rate of Right Ascen(r/s):  -0.7668890869E-008
+SQRT(A)  (m 1/2):           5153.600098
+Right Ascen at Week(rad):   0.2960875785E+001
+Argument of Perigee(rad):  -0.557196051
+Mean Anom(rad):             0.1838642255E-001
+Af0(s):                    -0.6122589111E-003
+Af1(s/s):                   0.0000000000E+000
+week:                        361
+
+******** Week 361 almanac for PRN-07 ********
+ID:                         07
+Health:                     000
+Eccentricity:               0.2054166794E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9512921935
+Rate of Right Ascen(r/s):  -0.7794610391E-008
+SQRT(A)  (m 1/2):           5153.566406
+Right Ascen at Week(rad):  -0.2068166378E+000
+Argument of Perigee(rad):  -1.989164495
+Mean Anom(rad):            -0.8379238976E+000
+Af0(s):                    -0.1602172852E-003
+Af1(s/s):                  -0.3637978807E-011
+week:                        361
+
+******** Week 361 almanac for PRN-08 ********
+ID:                         08
+Health:                     000
+Eccentricity:               0.1158666611E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9431189521
+Rate of Right Ascen(r/s):  -0.7988904198E-008
+SQRT(A)  (m 1/2):           5153.636719
+Right Ascen at Week(rad):   0.1840199830E+001
+Argument of Perigee(rad):   0.526462132
+Mean Anom(rad):             0.1986214877E+001
+Af0(s):                     0.4796981812E-003
+Af1(s/s):                  -0.7275957614E-011
+week:                        361
+
+******** Week 361 almanac for PRN-09 ********
+ID:                         09
+Health:                     000
+Eccentricity:               0.3344058990E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9646546043
+Rate of Right Ascen(r/s):  -0.7817468486E-008
+SQRT(A)  (m 1/2):           5153.725098
+Right Ascen at Week(rad):  -0.1279793880E+001
+Argument of Perigee(rad):   2.067823329
+Mean Anom(rad):             0.2576192277E+001
+Af0(s):                     0.7667541504E-003
+Af1(s/s):                   0.0000000000E+000
+week:                        361
+
+******** Week 361 almanac for PRN-10 ********
+ID:                         10
+Health:                     000
+Eccentricity:               0.1093721390E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9929733277
+Rate of Right Ascen(r/s):  -0.7737465154E-008
+SQRT(A)  (m 1/2):           5153.606445
+Right Ascen at Week(rad):  -0.2288577995E+001
+Argument of Perigee(rad):  -2.255867428
+Mean Anom(rad):            -0.2283169739E+001
+Af0(s):                    -0.5903244019E-003
+Af1(s/s):                   0.0000000000E+000
+week:                        361
+
+******** Week 361 almanac for PRN-11 ********
+ID:                         11
+Health:                     000
+Eccentricity:               0.2201557159E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9639235665
+Rate of Right Ascen(r/s):  -0.7886042771E-008
+SQRT(A)  (m 1/2):           5153.532227
+Right Ascen at Week(rad):   0.2979443844E+001
+Argument of Perigee(rad):  -2.306032644
+Mean Anom(rad):             0.1120186100E+001
+Af0(s):                    -0.4100799561E-003
+Af1(s/s):                   0.1455191523E-010
+week:                        361
+
+******** Week 361 almanac for PRN-12 ********
+ID:                         12
+Health:                     000
+Eccentricity:               0.9008884430E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9591178924
+Rate of Right Ascen(r/s):  -0.7840326581E-008
+SQRT(A)  (m 1/2):           5153.710938
+Right Ascen at Week(rad):   0.9107374266E+000
+Argument of Perigee(rad):   1.562719708
+Mean Anom(rad):            -0.1507085566E+001
+Af0(s):                    -0.6074905396E-003
+Af1(s/s):                   0.0000000000E+000
+week:                        361
+
+******** Week 361 almanac for PRN-13 ********
+ID:                         13
+Health:                     000
+Eccentricity:               0.1001358032E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9761414838
+Rate of Right Ascen(r/s):  -0.7657461821E-008
+SQRT(A)  (m 1/2):           5153.627441
+Right Ascen at Week(rad):  -0.1104512981E+001
+Argument of Perigee(rad):   0.995592480
+Mean Anom(rad):             0.1742792799E+001
+Af0(s):                     0.6837844849E-003
+Af1(s/s):                   0.0000000000E+000
+week:                        361
+
+******** Week 361 almanac for PRN-14 ********
+ID:                         14
+Health:                     000
+Eccentricity:               0.6766796112E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9424897803
+Rate of Right Ascen(r/s):  -0.8011762293E-008
+SQRT(A)  (m 1/2):           5153.592773
+Right Ascen at Week(rad):   0.8559391837E+000
+Argument of Perigee(rad):  -2.746305728
+Mean Anom(rad):            -0.1658230236E+001
+Af0(s):                     0.7390975952E-003
+Af1(s/s):                   0.0000000000E+000
+week:                        361
+
+******** Week 361 almanac for PRN-15 ********
+ID:                         15
+Health:                     000
+Eccentricity:               0.1661157608E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9425377172
+Rate of Right Ascen(r/s):  -0.8068907531E-008
+SQRT(A)  (m 1/2):           5153.647461
+Right Ascen at Week(rad):  -0.1424128888E+001
+Argument of Perigee(rad):   1.503539359
+Mean Anom(rad):             0.9891168790E+000
+Af0(s):                     0.3938674927E-003
+Af1(s/s):                   0.3637978807E-011
+week:                        361
+
+******** Week 361 almanac for PRN-16 ********
+ID:                         16
+Health:                     000
+Eccentricity:               0.1504373550E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9582370518
+Rate of Right Ascen(r/s):  -0.7851755629E-008
+SQRT(A)  (m 1/2):           5153.595215
+Right Ascen at Week(rad):   0.9276969774E+000
+Argument of Perigee(rad):   0.930543231
+Mean Anom(rad):             0.3016754481E+001
+Af0(s):                     0.2241134644E-003
+Af1(s/s):                   0.7275957614E-011
+week:                        361
+
+******** Week 361 almanac for PRN-17 ********
+ID:                         17
+Health:                     000
+Eccentricity:               0.1265192032E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9588242788
+Rate of Right Ascen(r/s):  -0.7817468486E-008
+SQRT(A)  (m 1/2):           5153.547852
+Right Ascen at Week(rad):   0.1945090635E+001
+Argument of Perigee(rad):  -1.119687256
+Mean Anom(rad):             0.1922222487E+001
+Af0(s):                    -0.8583068848E-004
+Af1(s/s):                  -0.1091393642E-010
+week:                        361
+
+******** Week 361 almanac for PRN-18 ********
+ID:                         18
+Health:                     000
+Eccentricity:               0.5761146545E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9720069262
+Rate of Right Ascen(r/s):  -0.7817468486E-008
+SQRT(A)  (m 1/2):           5153.591797
+Right Ascen at Week(rad):   0.2955704967E+001
+Argument of Perigee(rad):  -2.867001104
+Mean Anom(rad):            -0.6162063742E-001
+Af0(s):                    -0.4034042358E-003
+Af1(s/s):                   0.1091393642E-010
+week:                        361
+
+******** Week 361 almanac for PRN-19 ********
+ID:                         19
+Health:                     000
+Eccentricity:               0.1116275787E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9580093516
+Rate of Right Ascen(r/s):  -0.7817468486E-008
+SQRT(A)  (m 1/2):           5153.672852
+Right Ascen at Week(rad):   0.1988987353E+001
+Argument of Perigee(rad):   2.935709287
+Mean Anom(rad):            -0.2556113083E+001
+Af0(s):                     0.6933212280E-003
+Af1(s/s):                   0.0000000000E+000
+week:                        361
+
+******** Week 361 almanac for PRN-20 ********
+ID:                         20
+Health:                     063
+Eccentricity:               0.2274513245E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9600586540
+Rate of Right Ascen(r/s):  -0.7863184676E-008
+SQRT(A)  (m 1/2):           5153.707520
+Right Ascen at Week(rad):  -0.1274228331E+001
+Argument of Perigee(rad):  -1.998467998
+Mean Anom(rad):            -0.1524138369E+001
+Af0(s):                     0.4768371582E-004
+Af1(s/s):                   0.2182787284E-010
+week:                        361
+
+******** Week 361 almanac for PRN-21 ********
+ID:                         21
+Health:                     000
+Eccentricity:               0.7596015930E-003
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9628509784
+Rate of Right Ascen(r/s):  -0.8068907531E-008
+SQRT(A)  (m 1/2):           5153.719727
+Right Ascen at Week(rad):  -0.2280118256E+001
+Argument of Perigee(rad):  -0.304602295
+Mean Anom(rad):            -0.1819940123E+001
+Af0(s):                     0.4081726074E-003
+Af1(s/s):                   0.3637978807E-011
+week:                        361
+
+******** Week 361 almanac for PRN-22 ********
+ID:                         22
+Health:                     000
+Eccentricity:               0.1207304001E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9576797854
+Rate of Right Ascen(r/s):  -0.7851755629E-008
+SQRT(A)  (m 1/2):           5153.566895
+Right Ascen at Week(rad):   0.9310514368E+000
+Argument of Perigee(rad):  -0.993043585
+Mean Anom(rad):             0.2569752254E+001
+Af0(s):                    -0.3528594971E-004
+Af1(s/s):                   0.3637978807E-011
+week:                        361
+
+******** Week 361 almanac for PRN-23 ********
+ID:                         23
+Health:                     000
+Eccentricity:               0.6047725677E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9879759059
+Rate of Right Ascen(r/s):  -0.7794610391E-008
+SQRT(A)  (m 1/2):           5153.661133
+Right Ascen at Week(rad):  -0.2320709200E+001
+Argument of Perigee(rad):  -2.739303196
+Mean Anom(rad):            -0.1202513605E+001
+Af0(s):                     0.6227493286E-003
+Af1(s/s):                   0.3637978807E-011
+week:                        361
+
+******** Week 361 almanac for PRN-24 ********
+ID:                         24
+Health:                     000
+Eccentricity:               0.1791667938E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9352573006
+Rate of Right Ascen(r/s):  -0.7988904198E-008
+SQRT(A)  (m 1/2):           5153.591797
+Right Ascen at Week(rad):  -0.3154607522E+000
+Argument of Perigee(rad):   1.136706728
+Mean Anom(rad):             0.1438372889E+000
+Af0(s):                    -0.8487701416E-004
+Af1(s/s):                   0.1818989404E-010
+week:                        361
+
+******** Week 361 almanac for PRN-25 ********
+ID:                         25
+Health:                     000
+Eccentricity:               0.1293420792E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9475351390
+Rate of Right Ascen(r/s):  -0.7954617056E-008
+SQRT(A)  (m 1/2):           5153.660156
+Right Ascen at Week(rad):   0.8167987052E+000
+Argument of Perigee(rad):   1.158264851
+Mean Anom(rad):            -0.1636752632E+001
+Af0(s):                     0.4377365112E-003
+Af1(s/s):                  -0.3637978807E-011
+week:                        361
+
+******** Week 361 almanac for PRN-26 ********
+ID:                         26
+Health:                     000
+Eccentricity:               0.1101446152E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9283483949
+Rate of Right Ascen(r/s):  -0.8148910863E-008
+SQRT(A)  (m 1/2):           5153.658203
+Right Ascen at Week(rad):   0.7420804335E+000
+Argument of Perigee(rad):   0.710782881
+Mean Anom(rad):            -0.2457439844E+001
+Af0(s):                    -0.3395080566E-003
+Af1(s/s):                  -0.3637978807E-011
+week:                        361
+
+******** Week 361 almanac for PRN-27 ********
+ID:                         27
+Health:                     000
+Eccentricity:               0.1436901093E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9522269630
+Rate of Right Ascen(r/s):  -0.7908900866E-008
+SQRT(A)  (m 1/2):           5153.615723
+Right Ascen at Week(rad):   0.1872325418E+001
+Argument of Perigee(rad):   0.883603269
+Mean Anom(rad):             0.2088568772E+001
+Af0(s):                    -0.6675720215E-004
+Af1(s/s):                  -0.1091393642E-010
+week:                        361
+
+******** Week 361 almanac for PRN-28 ********
+ID:                         28
+Health:                     000
+Eccentricity:               0.4239082336E-003
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9622218066
+Rate of Right Ascen(r/s):  -0.7680319916E-008
+SQRT(A)  (m 1/2):           5153.749512
+Right Ascen at Week(rad):  -0.2324434047E+000
+Argument of Perigee(rad):  -0.052369565
+Mean Anom(rad):            -0.4626805885E+000
+Af0(s):                    -0.5798339844E-003
+Af1(s/s):                   0.7275957614E-011
+week:                        361
+
+******** Week 361 almanac for PRN-29 ********
+ID:                         29
+Health:                     000
+Eccentricity:               0.3388881683E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9614787847
+Rate of Right Ascen(r/s):  -0.7783181344E-008
+SQRT(A)  (m 1/2):           5153.705566
+Right Ascen at Week(rad):   0.1961847203E+001
+Argument of Perigee(rad):   2.743006321
+Mean Anom(rad):             0.1947369136E+001
+Af0(s):                    -0.3604888916E-003
+Af1(s/s):                   0.7275957614E-011
+week:                        361
+
+******** Week 361 almanac for PRN-30 ********
+ID:                         30
+Health:                     000
+Eccentricity:               0.8097648621E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9365515969
+Rate of Right Ascen(r/s):  -0.7943188009E-008
+SQRT(A)  (m 1/2):           5153.697266
+Right Ascen at Week(rad):  -0.2159564818E+000
+Argument of Perigee(rad):  -2.312925072
+Mean Anom(rad):            -0.1018481601E+001
+Af0(s):                     0.1497268677E-003
+Af1(s/s):                   0.1455191523E-010
+week:                        361
+
+******** Week 361 almanac for PRN-31 ********
+ID:                         31
+Health:                     000
+Eccentricity:               0.1084709167E-001
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9550612322
+Rate of Right Ascen(r/s):  -0.7760323249E-008
+SQRT(A)  (m 1/2):           5153.520508
+Right Ascen at Week(rad):  -0.1825631881E+000
+Argument of Perigee(rad):   0.937271250
+Mean Anom(rad):            -0.1931062725E+001
+Af0(s):                    -0.1621246338E-003
+Af1(s/s):                   0.3637978807E-011
+week:                        361
+
+******** Week 361 almanac for PRN-32 ********
+ID:                         32
+Health:                     000
+Eccentricity:               0.9372234344E-002
+Time of Applicability(s):  405504.0000
+Orbital Inclination(rad):   0.9676985974
+Rate of Right Ascen(r/s):  -0.7783181344E-008
+SQRT(A)  (m 1/2):           5153.689941
+Right Ascen at Week(rad):  -0.1262753061E+001
+Argument of Perigee(rad):  -1.994918421
+Mean Anom(rad):             0.2659039599E+001
+Af0(s):                    -0.5245208740E-004
+Af1(s/s):                   0.1818989404E-010
+week:                        361
+
