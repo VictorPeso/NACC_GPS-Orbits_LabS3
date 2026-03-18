@@ -26,8 +26,7 @@ fd = fopen("main4.dat", "w");
 % week:                       359
 
 [baseweek, esec, NS, Eph] = almanac();
-all_ecef = zeros(NS,3);
-sat_ids = zeros(NS,1);
+all_ecef = zeros(NS,4);
 
 % 1. Set user position to EETAC and compute its ECEF xyz coordinates using the WGS84 ellipsoid parameters
 User_lat = deg2rad(41 + 16.578/60);
@@ -59,8 +58,7 @@ for n = 1:1:NS
 
     all_ecef(n,1) = ecef(1); 
     all_ecef(n,2) = ecef(2); 
-    all_ecef(n,3) = ecef(3);
-    sat_ids(n) = id;
+    all_ecef(n,3) = ecef(3); 
 
     fprintf(fd, "Oo = %f, esec = %f, dt = %f\n\n", mod(Oo, 2 * pi), esec, dt);
 end
@@ -78,6 +76,8 @@ end
 ned_vec = zeros(NS, 3);
 for n = 1:1:NS
     ned_vec(n,:) = ecef2ned(pointing_vec(n,:), User_lat, User_long);
+    % ned_vec(n,2) = ecef2ned(pointing_vec(n,2), User_lat, User_long);
+    % ned_vec(n,3) = ecef2ned(pointing_vec(n,3), User_lat, User_long);
 end
 
 
@@ -99,7 +99,7 @@ elevation = [];
 
 for n = 1:1:NS
     if sphe_vec(n,3) >= 10
-        prn(end+1) = sat_ids(n);
+        prn(end+1) = id;
         azimuth(end+1) = sphe_vec(n,2);
         elevation(end+1) = sphe_vec(n,3);
     end
@@ -109,11 +109,11 @@ end
 
 max_elev = 90;
 min_elev = 10;
-err = viewsat(azimuth, elevation, prn, min_elev, max_elev, "Visible GPS satellites");
+err = viewsat(azimuth, elevation, prn, min_elev, max_elev, "hola");
 
 fprintf(fd, "\nVisible satellites:\n"); 
 
-for (j = 1:length(prn))  % length(prn) is the number of visible satellites 
+for (j = 1:NS)  % 'n' is the number of visible satellites 
     fprintf(fd, "prn = %d, azimuth = %f, elevation = %f\n", prn(j), azimuth(j), elevation(j)); 
 end 
 
